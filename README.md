@@ -2,7 +2,6 @@
 
 - Họ và tên: Nguyễn Anh Dũng
 - MSSV / mã học viên: 2A202602554
-- Lớp: Chưa cung cấp
 - Ngành đã chọn: Y tế / symptom checker / health assistant
 
 ### 1. Industry Risk Snapshot
